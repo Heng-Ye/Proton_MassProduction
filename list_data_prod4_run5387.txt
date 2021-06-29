@@ -1,0 +1,1 @@
+/pnfs/dune/persistent/users/hyliao/protodune/proton/v09_09_01/ana/protodune_sp_runset_5387_reco_v09_09_01_v0_new3/Beam_all.root
